@@ -1,59 +1,94 @@
-# Houston Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+# Houston Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 > Free Houston bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
 ## About
 houstonbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Houston Bankruptcy -- Chapter 7 & 13 Filing Guide: https://houstonbankruptcy.org/
-- Chapter 7 Bankruptcy in Houston -- Eligibility, Exemptions, Timeline: https://houstonbankruptcy.org/chapter-7.html
-- Chapter 13 Bankruptcy in Houston -- Payment Plans, Dismissal Rates, Timeline: https://houstonbankruptcy.org/chapter-13.html
-- Texas Bankruptcy Exemptions -- What You Can Keep -- Houston: https://houstonbankruptcy.org/exemptions.html
-- How Much Does Bankruptcy Cost in Houston? -- Filing Fees, Attorney Fees: https://houstonbankruptcy.org/cost.html
-- What to Expect When Filing Bankruptcy -- Timeline, 341 Meeting, Discharge -- Houston: https://houstonbankruptcy.org/what-to-expect.html
-- Houston Bankruptcy FAQ -- 18 Common Questions Answered: https://houstonbankruptcy.org/faq.html
-- Houston Bankruptcy Statistics -- 91,806 Cases Analyzed: https://houstonbankruptcy.org/statistics.html
-- Houston Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://houstonbankruptcy.org/resources.html
-- Bankruptcy by County -- Houston Metro Area: https://houstonbankruptcy.org/counties.html
-- Bankruptcy in Harris County -- Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/harris-county.html
-- Bankruptcy in Fort Bend County -- Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/fort-bend-county.html
-- Bankruptcy in Montgomery County -- Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/montgomery-county.html
-- Bankruptcy in Brazoria County -- Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/brazoria-county.html
-- Bankruptcy in Galveston County -- Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/galveston-county.html
-- Find Your Bankruptcy District -- Houston Bankruptcy Guide: https://houstonbankruptcy.org/district-lookup.html
-- Free Legal Help for Bankruptcy in Houston: https://houstonbankruptcy.org/legal-aid.html
-- Houston Means Test: Do You Qualify for Chapter 7?: https://houstonbankruptcy.org/means-test.html
+- The 341 Meeting of Creditors in Houston: https://houstonbankruptcy.org/341-meeting.html
 - The Automatic Stay in Houston Bankruptcy: https://houstonbankruptcy.org/automatic-stay.html
+- Bank Accounts and Bankruptcy in Houston: https://houstonbankruptcy.org/bank-account.html
+- Can I Buy a Car While in Chapter 13? - Houston: https://houstonbankruptcy.org/buy-car-chapter-13.html
+- Buying a House After Bankruptcy in Houston: https://houstonbankruptcy.org/buying-a-house.html
+- Car Leases and Bankruptcy - Houston: https://houstonbankruptcy.org/car-lease.html
+- Chapter 13 Eligibility in Houston: https://houstonbankruptcy.org/chapter-13-eligibility.html
+- Chapter 13 Payments in Houston: https://houstonbankruptcy.org/chapter-13-payments.html
+- Chapter 13 Bankruptcy in Houston - Payment Plans, Dismissal Rates, Timeline: https://houstonbankruptcy.org/chapter-13.html
+- Chapter 7 Eligibility in Houston: https://houstonbankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 Bankruptcy in Houston - Eligibility, Exemptions, Timeline: https://houstonbankruptcy.org/chapter-7.html
+- Bankruptcy Filing Checklist for Houston: https://houstonbankruptcy.org/checklist.html
+- Bankruptcy in Baytown, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/baytown.html
+- Bankruptcy in Beaumont, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/beaumont.html
+- Bankruptcy in Conroe, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/conroe.html
+- Bankruptcy in Cypress, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/cypress.html
+- Bankruptcy in Friendswood, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/friendswood.html
+- Bankruptcy in Galveston, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/galveston.html
+- Bankruptcy in Humble, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/humble.html
+- Bankruptcy by City - Houston Area Suburbs: https://houstonbankruptcy.org/cities/
+- Bankruptcy in Katy, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/katy.html
+- Bankruptcy in League City, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/league-city.html
+- Bankruptcy in Missouri City, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/missouri-city.html
+- Bankruptcy in Pasadena, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/pasadena.html
+- Bankruptcy in Pearland, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/pearland.html
+- Bankruptcy in Spring, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/spring.html
+- Bankruptcy in Sugar Land, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/sugar-land.html
+- Bankruptcy in The Woodlands, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/the-woodlands.html
+- Converting Between Bankruptcy Chapters in Houston: https://houstonbankruptcy.org/converting-chapters.html
+- How Much Does Bankruptcy Cost in Houston? - Filing Fees, Attorney Fees: https://houstonbankruptcy.org/cost.html
+- Bankruptcy by County - Houston Metro Area: https://houstonbankruptcy.org/counties.html
+- Bankruptcy in Brazoria County - Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/brazoria-county.html
+- Bankruptcy in Fort Bend County - Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/fort-bend-county.html
+- Bankruptcy in Galveston County - Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/galveston-county.html
+- Bankruptcy in Harris County - Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/harris-county.html
+- Bankruptcy in Montgomery County - Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/montgomery-county.html
+- Houston Federal Bankruptcy Court Guide - S.D. Texas Filing Information: https://houstonbankruptcy.org/court-guide.html
 - Rebuilding Credit After Bankruptcy in Houston: https://houstonbankruptcy.org/credit-after-bankruptcy.html
+- Credit Card Debt and Bankruptcy in Houston: https://houstonbankruptcy.org/credit-card-debt.html
+- Using Credit Cards Before Filing Bankruptcy - Houston: https://houstonbankruptcy.org/credit-cards-before-filing.html
+- Types of Debt in Houston Bankruptcy: https://houstonbankruptcy.org/debt-types.html
+- Bankruptcy Disqualifications in Houston: https://houstonbankruptcy.org/disqualifications.html
+- Find Your Bankruptcy District - Houston Bankruptcy Guide: https://houstonbankruptcy.org/district-lookup.html
+- Divorce and Bankruptcy in Houston: https://houstonbankruptcy.org/divorce-and-bankruptcy.html
+- Emergency Bankruptcy Filing in Houston: https://houstonbankruptcy.org/emergency-bankruptcy.html
+- Bankruptcy and Employment: Can You Get Fired? - Houston: https://houstonbankruptcy.org/employment.html
+- Can I Keep My Engagement Ring in Bankruptcy? - Houston: https://houstonbankruptcy.org/engagement-ring.html
+- Can Bankruptcy Stop an Eviction? - Houston: https://houstonbankruptcy.org/eviction.html
+- Texas Bankruptcy Exemptions - What You Can Keep - Houston: https://houstonbankruptcy.org/exemptions.html
+- Houston Bankruptcy FAQ - 18 Common Questions Answered: https://houstonbankruptcy.org/faq.html
+- How to Find Out if Someone Filed Bankruptcy - Houston: https://houstonbankruptcy.org/find-bankruptcy-filing.html
+- Foreclosure and Bankruptcy in Houston: https://houstonbankruptcy.org/foreclosure.html
+- Bankruptcy Glossary - Houston Terms: https://houstonbankruptcy.org/glossary.html
+- Bankruptcy Income Limits in Houston: https://houstonbankruptcy.org/income-limits.html
+- Houston Bankruptcy - Chapter 7 & 13 Filing Guide: https://houstonbankruptcy.org/
+- Judgments and Bankruptcy in Houston: https://houstonbankruptcy.org/judgments.html
 - Can I Keep My Car in Houston Bankruptcy?: https://houstonbankruptcy.org/keep-your-car.html
 - Can I Keep My House in Houston Bankruptcy?: https://houstonbankruptcy.org/keep-your-house.html
+- Free Legal Help for Bankruptcy in Houston: https://houstonbankruptcy.org/legal-aid.html
+- Houston Means Test: Do You Qualify for Chapter 7?: https://houstonbankruptcy.org/means-test.html
+- Can I File Bankruptcy on Medical Debt Only? - Houston: https://houstonbankruptcy.org/medical-debt-only.html
 - Medical Debt and Bankruptcy in Houston: https://houstonbankruptcy.org/medical-debt.html
-- Wage Garnishment and Bankruptcy in Houston: https://houstonbankruptcy.org/wage-garnishment.html
-- Student Loans and Bankruptcy in Houston: https://houstonbankruptcy.org/student-loans.html
-- Tax Debt and Bankruptcy in Houston: https://houstonbankruptcy.org/tax-debt.html
-- Small Business Bankruptcy in Houston: https://houstonbankruptcy.org/small-business.html
-- Types of Debt in Houston Bankruptcy: https://houstonbankruptcy.org/debt-types.html
-- Foreclosure and Bankruptcy in Houston: https://houstonbankruptcy.org/foreclosure.html
-- Vehicle Repossession and Bankruptcy in Houston: https://houstonbankruptcy.org/repossession.html
-- Bankruptcy Timeline in Houston: What to Expect: https://houstonbankruptcy.org/timeline.html
-- The 341 Meeting of Creditors in Houston: https://houstonbankruptcy.org/341-meeting.html
-- Bankruptcy Filing Checklist for Houston: https://houstonbankruptcy.org/checklist.html
-- Emergency Bankruptcy Filing in Houston: https://houstonbankruptcy.org/emergency-bankruptcy.html
-- Divorce and Bankruptcy in Houston: https://houstonbankruptcy.org/divorce-and-bankruptcy.html
-- Credit Card Debt and Bankruptcy in Houston: https://houstonbankruptcy.org/credit-card-debt.html
-- Converting Between Bankruptcy Chapters in Houston: https://houstonbankruptcy.org/converting-chapters.html
-- Chapter 7 Eligibility in Houston: https://houstonbankruptcy.org/chapter-7-eligibility.html
-- Chapter 13 Eligibility in Houston: https://houstonbankruptcy.org/chapter-13-eligibility.html
-- Buying a House After Bankruptcy in Houston: https://houstonbankruptcy.org/buying-a-house.html
-- Bankruptcy Glossary -- Houston Terms: https://houstonbankruptcy.org/glossary.html
 - Payday Loans and Bankruptcy in Houston: https://houstonbankruptcy.org/payday-loans.html
-- Judgments and Bankruptcy in Houston: https://houstonbankruptcy.org/judgments.html
+- Can I Undo a Reaffirmation Agreement? - Houston: https://houstonbankruptcy.org/reaffirmation-regret.html
+- Renting an Apartment After Bankruptcy - Houston: https://houstonbankruptcy.org/renting-after-bankruptcy.html
+- Can Bankruptcy Remove a Repossession From Your Credit? - Houston: https://houstonbankruptcy.org/repo-credit-report.html
+- Vehicle Repossession and Bankruptcy in Houston: https://houstonbankruptcy.org/repossession.html
+- Houston Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://houstonbankruptcy.org/resources.html
+- Can I Keep My 401k and Retirement in Bankruptcy? - Houston: https://houstonbankruptcy.org/retirement-accounts.html
 - Second Mortgages and Bankruptcy in Houston: https://houstonbankruptcy.org/second-mortgage.html
-- Bank Accounts and Bankruptcy in Houston: https://houstonbankruptcy.org/bank-account.html
-- Chapter 13 Payments in Houston: https://houstonbankruptcy.org/chapter-13-payments.html
-- Bankruptcy Income Limits in Houston: https://houstonbankruptcy.org/income-limits.html
-- Bankruptcy Disqualifications in Houston: https://houstonbankruptcy.org/disqualifications.html
-- Houston Federal Bankruptcy Court Guide -- S.D. Texas Filing Information: https://houstonbankruptcy.org/court-guide.html
+- Bankruptcy and Security Clearance - Houston: https://houstonbankruptcy.org/security-clearance.html
+- Small Business Bankruptcy in Houston: https://houstonbankruptcy.org/small-business.html
+- Houston Bankruptcy Statistics - 91,806 Cases Analyzed: https://houstonbankruptcy.org/statistics.html
+- What Bills Can I Stop Paying Before Filing? - Houston: https://houstonbankruptcy.org/stop-paying-bills.html
+- Student Loans and Bankruptcy in Houston: https://houstonbankruptcy.org/student-loans.html
+- Surrendering Your Car in Bankruptcy - Houston: https://houstonbankruptcy.org/surrender-car.html
+- Tax Debt and Bankruptcy in Houston: https://houstonbankruptcy.org/tax-debt.html
+- Will the Chapter 13 Trustee Take My Tax Refund? - Houston: https://houstonbankruptcy.org/tax-refund-chapter13.html
+- Bankruptcy Timeline in Houston: What to Expect: https://houstonbankruptcy.org/timeline.html
+- Timeshares and Bankruptcy - Houston: https://houstonbankruptcy.org/timeshare.html
+- Can I Travel During Chapter 13? - Houston: https://houstonbankruptcy.org/travel-chapter-13.html
+- Wage Garnishment and Bankruptcy in Houston: https://houstonbankruptcy.org/wage-garnishment.html
+- What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Houston: https://houstonbankruptcy.org/what-to-expect.html
+- Privacy Policy: https://houstonbankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

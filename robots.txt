@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://houstonbankruptcy.org/sitemap.xml
 
-Sitemap: https://houstonbankruptcy.org/feed.xml
+
+Sitemap: https://houstonbankruptcy.org/sitemapindex.xml

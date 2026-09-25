@@ -1,5 +1,5 @@
-# Houston Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Houston Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Houston bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
@@ -36,7 +36,7 @@ houstonbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Bankruptcy in Sugar Land, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/sugar-land.html
 - Bankruptcy in The Woodlands, TX - Houston Bankruptcy Guide: https://houstonbankruptcy.org/cities/the-woodlands.html
 - Converting Between Bankruptcy Chapters in Houston: https://houstonbankruptcy.org/converting-chapters.html
-- How Much Does Bankruptcy Cost in Houston? - Filing Fees, Attorney Fees: https://houstonbankruptcy.org/cost.html
+- Houston Bankruptcy Cost [2026]: $338 SDTX Filing Fee Plus $1,000-$3,500 Attorney Fee: https://houstonbankruptcy.org/cost.html
 - Bankruptcy by County - Houston Metro Area: https://houstonbankruptcy.org/counties.html
 - Bankruptcy in Brazoria County - Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/brazoria-county.html
 - Bankruptcy in Fort Bend County - Houston Bankruptcy Guide: https://houstonbankruptcy.org/counties/fort-bend-county.html
@@ -55,13 +55,13 @@ houstonbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Bankruptcy and Employment: Can You Get Fired? - Houston: https://houstonbankruptcy.org/employment.html
 - Can I Keep My Engagement Ring in Bankruptcy? - Houston: https://houstonbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction? - Houston: https://houstonbankruptcy.org/eviction.html
-- Texas Bankruptcy Exemptions - What You Can Keep - Houston: https://houstonbankruptcy.org/exemptions.html
-- Houston Bankruptcy FAQ - 18 Common Questions Answered: https://houstonbankruptcy.org/faq.html
+- Texas Bankruptcy Exemptions [2026]: Unlimited Homestead, Personal Property, and Federal Choice: https://houstonbankruptcy.org/exemptions.html
+- Houston Bankruptcy FAQ [2026]: SDTX Process, Texas Exemptions, and 18 Common Questions: https://houstonbankruptcy.org/faq.html
 - How to Find Out if Someone Filed Bankruptcy - Houston: https://houstonbankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Houston: https://houstonbankruptcy.org/foreclosure.html
 - Bankruptcy Glossary - Houston Terms: https://houstonbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Houston: https://houstonbankruptcy.org/income-limits.html
-- Houston Bankruptcy - Chapter 7 & 13 Filing Guide: https://houstonbankruptcy.org/
+- Houston Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://houstonbankruptcy.org/
 - Judgments and Bankruptcy in Houston: https://houstonbankruptcy.org/judgments.html
 - Can I Keep My Car in Houston Bankruptcy?: https://houstonbankruptcy.org/keep-your-car.html
 - Can I Keep My House in Houston Bankruptcy?: https://houstonbankruptcy.org/keep-your-house.html
@@ -79,7 +79,7 @@ houstonbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Second Mortgages and Bankruptcy in Houston: https://houstonbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance - Houston: https://houstonbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Houston: https://houstonbankruptcy.org/small-business.html
-- Houston Bankruptcy Statistics - 91,806 Cases Analyzed: https://houstonbankruptcy.org/statistics.html
+- Houston Bankruptcy Statistics [2026]: 91,806 SDTX Cases Analyzed With Filing and Dismissal Data: https://houstonbankruptcy.org/statistics.html
 - What Bills Can I Stop Paying Before Filing? - Houston: https://houstonbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Houston: https://houstonbankruptcy.org/student-loans.html
 - Surrendering Your Car in Bankruptcy - Houston: https://houstonbankruptcy.org/surrender-car.html
@@ -91,6 +91,7 @@ houstonbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Wage Garnishment and Bankruptcy in Houston: https://houstonbankruptcy.org/wage-garnishment.html
 - What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Houston: https://houstonbankruptcy.org/what-to-expect.html
 - Privacy Policy: https://houstonbankruptcy.org/privacy.html
+- About houstonbankruptcy.org: https://houstonbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

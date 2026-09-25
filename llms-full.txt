@@ -1,6 +1,6 @@
 # houstonbankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on houstonbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -21,6 +21,8 @@ The 341 Meeting of Creditors in Houston
 The 341 meeting is the one required appearance in most bankruptcy cases. Here is what Houston filers need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+A required hearing where you answer questions under oath about your finances. In the S.D. Tex., most are conducted by phone or video.
 
 What Is the 341 Meeting?
 
@@ -157,15 +159,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -190,6 +210,8 @@ The Automatic Stay in Houston Bankruptcy
 The moment you file bankruptcy in the S.D. Tex., a powerful federal court order called the automatic stay takes effect. Here is what it means for Houston residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The automatic stay is a federal court order under 11 U.S.C. section 362 that takes effect the instant you file bankruptcy in the S.D. Tex.. It immediately stops most collection actions including wage garnishment, foreclosure proceedings, repossession attempts, lawsuits, harassing phone calls, and utility shutoffs.
 
 What Is the Automatic Stay?
 
@@ -332,15 +354,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -365,6 +405,8 @@ Bank Accounts and Bankruptcy in Houston
 Filing bankruptcy does not mean your bank account is seized. Understanding how bank accounts work in bankruptcy helps Houston residents protect their money.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Only if the balance exceeds what is protected by exemptions. Social Security, disability, veterans' benefits, and other exempt funds are protected. Keep records showing the source of deposits. Timing your filing when the balance is low minimizes exposure.
 
 What Happens to Your Bank Account When You File
 
@@ -461,15 +503,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -492,6 +552,8 @@ Home›Can I Buy a Car While in Chapter 13?
 Can I Buy a Car While in Chapter 13?
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+You need trustee approval and a court motion to purchase a vehicle during Chapter 13. The trustee will evaluate whether the purchase is necessary and whether the payment fits your budget. Interest rates are typically higher. Used vehicles are more likely to be approved.
 
 What You Need to Know
 
@@ -536,13 +598,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -567,6 +649,8 @@ Buying a House After Bankruptcy in Houston
 Bankruptcy does not permanently prevent you from buying a home. Houston residents can qualify for mortgages after specific waiting periods, and Texas has unique advantages for homebuyers rebuilding after bankruptcy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+With FHA, as soon as 2 years after Chapter 7 discharge or 1 year into a Chapter 13 plan (with court approval). Conventional loans require 4 years after Chapter 7 or 2 years after Chapter 13 discharge.
 
 Mortgage Waiting Periods After Bankruptcy
 
@@ -665,15 +749,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -696,6 +798,8 @@ Home›Car Leases and Bankruptcy
 Car Leases and Bankruptcy
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. If you are current on payments, you can typically keep the lease by assuming it. If behind, rejection discharges the remaining obligation. Lease buyout may be an option if you want to own the vehic
 
 What You Need to Know
 
@@ -740,13 +844,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -771,6 +895,8 @@ Chapter 13 Eligibility in Houston
 Chapter 13 lets you keep your property and repay debts over 3-5 years. Houston residents need regular income and debts within federal limits to file in the Southern District of Texas.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Your noncontingent, liquidated unsecured debts must be under $526,700 and your secured debts under $1,580,125 (Section 109(e); these limits adjust every three years, most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. There is no minimum debt requirement.
 
 Basic Eligibility Requirements
 
@@ -857,15 +983,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -890,6 +1034,8 @@ Chapter 13 Payments in Houston
 Chapter 13 bankruptcy requires monthly payments over 3-5 years. Understanding how payments are calculated, distributed, and managed is essential for Houston filers in the Southern District of Texas.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Payments vary based on your income, expenses, and debts. There is no fixed amount. The means test determines your disposable income. Texas median income for one person is $60,840 - if below this, your plan can be 3 years; above, it must be 5 years.
 
 How Chapter 13 Payments Are Calculated
 
@@ -1004,15 +1150,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1053,6 +1217,8 @@ Plan Duration
 $313
 
 Filing Fee
+
+The Southern District of Texas has a 65.1% Chapter 13 dismissal rate based on 2008-2024 data from 91,806 cases. A dismissed case means the debtor got no debt relief despite months or years of payments.
 
 What Is Chapter 13?
 
@@ -1177,15 +1343,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1210,6 +1394,8 @@ Chapter 7 Eligibility in Houston
 Chapter 7 provides the fastest path to debt relief, but you must qualify. Houston residents must pass the means test and meet other requirements to file in the Southern District of Texas.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The means test uses Texas median income: $60,840 for a single person. If below this, you qualify automatically. If above, you may still qualify after subtracting allowed expenses.
 
 The Means Test in Texas
 
@@ -1312,15 +1498,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1343,6 +1547,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Houston
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Houston residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -1483,15 +1689,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1516,6 +1740,8 @@ Bankruptcy Filing Checklist for Houston
 Use this checklist to prepare for your bankruptcy filing in the S.D. Tex.. Gathering these documents before meeting with an attorney saves time and money.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You need: 6 months of pay stubs, 2 years of tax returns, 3-6 months of bank statements, vehicle titles, mortgage statements, a complete debt list, and credit reports from all three bureaus.
 
 Documents You Will Need
 
@@ -1613,7 +1839,7 @@ Do not transfer property to friends, family, or trusts
 
 Do not pay back relatives - payments within 1 year to insiders can be recovered
 
-Do not run up credit card debt - charges over $800 on luxury goods within 90 days are presumed non-dischargeable
+Do not run up credit card debt - charges over $900 on luxury goods within 90 days are presumed non-dischargeable
 
 Do not cash out retirement accounts - they are fully exempt in bankruptcy
 
@@ -1696,15 +1922,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1834,6 +2078,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Beaumont, TX - Houston Bankruptcy Guide
@@ -1953,6 +2199,8 @@ You May Also Find Helpful
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2074,6 +2322,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Cypress, TX - Houston Bankruptcy Guide
@@ -2193,6 +2443,8 @@ Student Loan Forgiveness Programs -- studentloanforgive.org
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2314,6 +2566,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Galveston, TX - Houston Bankruptcy Guide
@@ -2434,6 +2688,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Humble, TX - Houston Bankruptcy Guide
@@ -2553,6 +2809,8 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2736,6 +2994,30 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Bankruptcy in Katy, TX - Houston Bankruptcy Guide
@@ -2855,6 +3137,8 @@ Student Loan Forgiveness Programs -- studentloanforgive.org
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2976,6 +3260,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Missouri City, TX - Houston Bankruptcy Guide
@@ -3095,6 +3381,8 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3216,6 +3504,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Pearland, TX - Houston Bankruptcy Guide
@@ -3335,6 +3625,8 @@ Student Loan Forgiveness Programs -- studentloanforgive.org
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3456,6 +3748,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Sugar Land, TX - Houston Bankruptcy Guide
@@ -3575,6 +3869,8 @@ Student Loan Forgiveness Programs -- studentloanforgive.org
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3696,6 +3992,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Converting Between Bankruptcy Chapters in Houston
@@ -3711,6 +4009,8 @@ Converting Between Bankruptcy Chapters in Houston
 Sometimes the chapter you filed under is not the right fit. Federal law allows you to convert between chapters, and Southern District of Texas filers should understand their rights and limitations.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You have an absolute right to convert under section 1307(a), as long as your case did not start as Chapter 7. File a motion in the Southern District of Texas and the conversion is automatic.
 
 Converting Chapter 13 to Chapter 7
 
@@ -3799,15 +4099,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3819,7 +4137,7 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 ---
 
-## How Much Does Bankruptcy Cost in Houston? - Filing Fees, Attorney Fees
+## Houston Bankruptcy Cost [2026]: $338 SDTX Filing Fee Plus $1,000-$3,500 Attorney Fee
 Source: https://houstonbankruptcy.org/cost.html
 
 Houston Bankruptcy Guide
@@ -3846,6 +4164,8 @@ Credit Counseling (2 courses)
 $1,000-$5,000
 
 Typical Attorney Fees
+
+The Chapter 7 filing fee is $338. Attorney fees in Houston typically range from $1,000-$2,500. Credit counseling courses cost about $25-50 total (two required). The total cost is typically $1,400-$2,900. Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -3944,15 +4264,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3975,6 +4313,8 @@ Home›Counties
 Bankruptcy by County - Houston Metro Area
 
 Your county determines which federal court handles your bankruptcy case and which state exemptions protect your property. Find your county below for specific information.
+
+The Houston metro area covers 5 counties: Harris County, Fort Bend County, Montgomery County, Brazoria County, Galveston County. Each county falls under a specific federal bankruptcy court district.
 
 5 Counties in the Houston Metro
 
@@ -4084,15 +4424,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4115,6 +4473,8 @@ Home » Counties » Brazoria County
 Bankruptcy in Brazoria County
 
 Brazoria County is located south of Houston along the Gulf Coast. Unlike the other Houston metro counties, Brazoria County falls under the Galveston Division of the Southern District of Texas.
+
+Brazoria County cases are filed in the Southern District of Texas, Galveston Division. The courthouse is at 601 Rosenberg St, Galveston, TX 77550. This is different from other Houston metro counties which use the Houston Division.
 
 Key Information
 
@@ -4209,6 +4569,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Fort Bend County - Houston Bankruptcy Guide
@@ -4222,6 +4584,8 @@ Home » Counties » Fort Bend County
 Bankruptcy in Fort Bend County
 
 Fort Bend County is one of the fastest-growing counties in Texas, located southwest of Houston. Residents file bankruptcy in the Southern District of Texas, Houston Division.
+
+Fort Bend County cases are filed in the Southern District of Texas, Houston Division, at 515 Rusk Ave, Houston, TX 77002. Fort Bend County residents travel to the Houston courthouse for their 341 meeting of creditors and any court hearings.
 
 Key Information
 
@@ -4316,6 +4680,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Galveston County - Houston Bankruptcy Guide
@@ -4329,6 +4695,8 @@ Home » Counties » Galveston County
 Bankruptcy in Galveston County
 
 Galveston County sits on the Gulf Coast southeast of Houston. It is part of the Galveston Division of the Southern District of Texas and has its own federal courthouse.
+
+Galveston County residents file in the Southern District of Texas, Galveston Division. The courthouse is conveniently located at 601 Rosenberg St, Galveston, TX 77550, within the county itself.
 
 Key Information
 
@@ -4423,6 +4791,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Harris County - Houston Bankruptcy Guide
@@ -4436,6 +4806,8 @@ Home » Counties » Harris County
 Bankruptcy in Harris County
 
 Harris County is the most populous county in Texas and the core of the Houston metro area. As the county seat of Houston, it handles the largest volume of bankruptcy filings in the Southern District of Texas.
+
+Harris County bankruptcy cases are filed in the Southern District of Texas, Houston Division. The courthouse is located at 515 Rusk Ave, Houston, TX 77002. Both Chapter 7 and Chapter 13 cases for Harris County residents are handled at this location.
 
 Key Information
 
@@ -4530,6 +4902,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Montgomery County - Houston Bankruptcy Guide
@@ -4543,6 +4917,8 @@ Home » Counties » Montgomery County
 Bankruptcy in Montgomery County
 
 Montgomery County is located north of Houston and includes The Woodlands and Conroe. Bankruptcy cases are filed in the Southern District of Texas, Houston Division.
+
+Montgomery County residents file in the Southern District of Texas, Houston Division. The courthouse is at 515 Rusk Ave, Houston, TX 77002. Your 341 meeting of creditors will typically be held in Houston.
 
 Key Information
 
@@ -4637,6 +5013,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Houston Federal Bankruptcy Court Guide - S.D. Texas Filing Information [2026]
@@ -4650,6 +5028,8 @@ Home›Houston Bankruptcy Guide›Court Guide
 Houston Federal Bankruptcy Court Guide
 
 Everything you need to know about the United States Bankruptcy Court for the Southern District of Texas. Address, filing hours, local rules, trustee panel, and pro se resources.
+
+File at the Bob Casey U.S. Courthouse, 515 Rusk Ave, Houston, TX 77002. Complete credit counseling first, prepare your petition and schedules, and pay the filing fee. Attorneys must file electronically through CM/ECF.
 
 Court Location and Contact
 
@@ -4772,7 +5152,7 @@ howmuchdoesbankruptcycost.com
 bankruptcyexemptionsbystate.com
 prosebankruptcy.org
 
-170+ domains. 10,000+ pages. $0 advertising. No lead generation. Just information.
+213+ domains. 44,000+ pages. $0 advertising. No lead generation. Just information.
 
 Related Houston Bankruptcy Resources
 
@@ -4786,13 +5166,33 @@ Exemptions
 
 Bankruptcy Cost
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -4809,6 +5209,8 @@ Rebuilding Credit After Bankruptcy in Houston
 Bankruptcy is not the end of your financial life - it is a fresh start. Here is a practical timeline and action plan for Houston residents to rebuild credit after bankruptcy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 stays on your credit report for 10 years from the filing date. Chapter 13 stays for 7 years. However, the impact on your score diminishes significantly after 2-3 years with active rebuilding.
 
 Your Credit Score After Bankruptcy
 
@@ -4951,15 +5353,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4985,6 +5405,8 @@ Credit card debt is the most common type of unsecured debt discharged in bankrup
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
 
+Yes. Credit card debt is unsecured and generally fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. Most Houston filers in the Southern District of Texas eliminate their credit card balances completely.
+
 How Bankruptcy Eliminates Credit Card Debt
 
 Chapter 7
@@ -4999,7 +5421,7 @@ When Credit Card Debt Is NOT Dischargeable
 
 Under 11 U.S.C. section 523(a)(2), credit card debt incurred through fraud is not dischargeable. The presumption of fraud applies to:
 
-Luxury purchases over $800 made within 90 days of filing (single creditor)
+Luxury purchases over $900 made within 90 days of filing (single creditor)
 
 Cash advances over $1,250 taken within 70 days of filing
 
@@ -5068,15 +5490,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5099,6 +5539,8 @@ Home›Using Credit Cards Before Filing Bankruptcy
 Using Credit Cards Before Filing Bankruptcy
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+Using credit cards when you know you will file bankruptcy can be considered fraud. The Bankruptcy Code presumes fraud for luxury goods purchases over $725 within 90 days and cash advances over $1,000 within 70 days of filing. Best practice: stop using all credit cards immediately once you decide to
 
 What You Need to Know
 
@@ -5143,13 +5585,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5174,6 +5636,8 @@ Types of Debt in Houston Bankruptcy
 Not all debts are treated the same in bankruptcy. Here is a complete guide to which debts can be eliminated and which survive for Houston residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Most unsecured debts: credit card debt, medical bills, personal loans, utility bills, lease obligations, payday loans, and most lawsuit judgments.
 
 Dischargeable Debts
 
@@ -5304,15 +5768,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5337,6 +5819,8 @@ Bankruptcy Disqualifications in Houston
 Not everyone can file bankruptcy at any time. Several factors can block or delay your filing in the Southern District of Texas. Here is what can disqualify you and what you can do about it.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The main disqualifiers are: time bars from prior discharges, failing the means test for Chapter 7 (income above $60,840 for one person in Texas without sufficient deductions), prior case dismissed within 180 days, and failure to complete credit counseling.
 
 Time Bars: Prior Discharges
 
@@ -5447,15 +5931,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5478,6 +5980,8 @@ Home›Find Your Bankruptcy District - Houston Bankruptcy Guide›Find Your Bank
 Find Your Bankruptcy District
 
 Enter your zip code to find which federal bankruptcy court handles cases in your area of the Houston metro.
+
+Houston is in the Southern District of Texas. The courthouse is located at 515 Rusk St, Houston, TX 77002. Most Harris County and surrounding county zip codes (770xx-775xx) fall within this district.
 
 Zip Code Lookup
 
@@ -5564,15 +6068,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5597,6 +6119,8 @@ Divorce and Bankruptcy in Houston
 Divorce and bankruptcy often overlap. Texas is a community property state, which adds unique complications. Understanding how these two processes interact can save you thousands of dollars and months of stress.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+It depends on your situation. Filing bankruptcy before divorce can eliminate joint debts and simplify property division. Filing after divorce means you only deal with your own debts but your ex-spouse remains liable on joint accounts. Texas is a community property state, so debts incurred during marriage are generally community debts regardless of whose name is on the account.
 
 Filing Order: Bankruptcy Before or After Divorce?
 
@@ -5711,15 +6235,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5744,6 +6286,8 @@ Emergency Bankruptcy Filing in Houston
 When foreclosure, repossession, or wage garnishment is days away, an emergency bankruptcy filing can trigger the automatic stay immediately - even before your full paperwork is complete.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+An emergency bankruptcy filing (also called a bare-bones or skeleton petition) is when you file just the petition and a few essential documents to get the automatic stay in place immediately. You then have 14 days to file the remaining schedules, statements, and documents required under the Bankruptcy Code.
 
 Why Emergency Filings Matter in Texas
 
@@ -5871,15 +6415,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5902,6 +6464,8 @@ Home›Bankruptcy and Employment: Can You Get Fired?
 Bankruptcy and Employment: Can You Get Fired?
 
 A free guide for Texas residents. Filed in S.D. Tex..
+
+Federal law (11 U.S.C. Section 525(a)) prohibits government employers from terminating, refusing to hire, or discriminating against you because of a bankruptcy filing. For private employers, the protection is more limited - they generally cannot fire you for filing, but some courts allow them to co
 
 What You Need to Know
 
@@ -5947,13 +6511,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5976,6 +6560,8 @@ Home›Can I Keep My Engagement Ring in Bankruptcy?
 Can I Keep My Engagement Ring in Bankruptcy?
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+Whether you can keep your engagement ring depends on your state's jewelry exemption. Exemption amounts vary wildly - from $150 in Arizona to unlimited in Texas. If your ring's value exceeds the exemption, the trustee could potentially sell it (though this is rare in practice for modest rings). Many
 
 What You Need to Know
 
@@ -6022,13 +6608,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6051,6 +6657,8 @@ Home›Can Bankruptcy Stop an Eviction?
 Can Bankruptcy Stop an Eviction?
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+The automatic stay under Section 362 temporarily halts most eviction proceedings. However, Section 362(b)(22) limits protection if your landlord already has a judgment for possession. In Chapter 13, you may be able to cure rent arrears through your plan. Timing matters - file before the judgment if
 
 What You Need to Know
 
@@ -6095,13 +6703,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6113,7 +6741,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Texas Bankruptcy Exemptions - What You Can Keep - Houston
+## Texas Bankruptcy Exemptions [2026]: Unlimited Homestead, Personal Property, and Federal Choice
 Source: https://houstonbankruptcy.org/exemptions.html
 
 Houston Bankruptcy Guide
@@ -6124,6 +6752,8 @@ Home›Exemptions
 Texas Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding them is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Texas's homestead exemption protects Unlimited (up to 10 acres urban / 100 acres rural) of equity in your primary residence. Equity is the difference between your home's value and what you owe on the mortgage.
 
 What Are Exemptions?
 
@@ -6214,15 +6844,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6234,7 +6882,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Houston Bankruptcy FAQ - 18 Common Questions Answered
+## Houston Bankruptcy FAQ [2026]: SDTX Process, Texas Exemptions, and 18 Common Questions
 Source: https://houstonbankruptcy.org/faq.html
 
 Houston Bankruptcy Guide
@@ -6245,6 +6893,8 @@ Home›FAQ
 Frequently Asked Questions
 
 Answers to the 18 most common questions from Houston residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,000-$2,500 for Chapter 7 and $3,000-$5,000 for Chapter 13. Credit counseling costs about $25-50 total. Fee waivers available for low-income Chapter 7 filers.
 
 Cost and Eligibility
 
@@ -6357,15 +7007,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6388,6 +7056,8 @@ Home›How to Find Out if Someone Filed Bankruptcy
 How to Find Out if Someone Filed Bankruptcy
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+All bankruptcy filings are public record. Search PACER (Public Access to Court Electronic Records) at pacer.gov for $0.10 per page. Free alternatives include RECAP (courtlistener.com/recap/) which mirrors many PACER documents. You can also call the bankruptcy court clerk directly or visit in person.
 
 What You Need to Know
 
@@ -6432,13 +7102,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6463,6 +7153,8 @@ Foreclosure and Bankruptcy in Houston
 Texas uses non-judicial foreclosure with a timeline of as few as 21 days after notice of default - the fastest in the United States. Bankruptcy can stop the process immediately.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Texas uses non-judicial foreclosure. Texas uses a non-judicial foreclosure process.
 
 How Foreclosure Works in Texas
 
@@ -6569,15 +7261,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6602,6 +7312,8 @@ Bankruptcy Glossary - Houston Terms Explained
 Bankruptcy has its own language. This glossary explains the terms you will encounter when filing in the Southern District of Texas, written in plain English for Houston residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 eliminates most debts in 3-4 months through liquidation of non-exempt assets. Chapter 13 reorganizes debts into a 3-5 year repayment plan. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 Core Bankruptcy Terms
 
@@ -6726,15 +7438,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6759,6 +7489,8 @@ Bankruptcy Income Limits in Houston
 Your income determines which bankruptcy chapter you qualify for and how your case proceeds. Here are the current income thresholds for Houston and Texas filers.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The primary threshold is the Texas median income: $60,840 for one person. Below this, you qualify automatically. Above this, the full means test may still allow you to qualify after deductions.
 
 Texas Median Income Thresholds
 
@@ -6847,15 +7579,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6867,13 +7617,13 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Houston Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Houston Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://houstonbankruptcy.org/
 
 Skip to main content
 
 Houston Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 Compliance Guide
 
 Houston Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -6897,6 +7647,8 @@ Discharge Rate
 $338
 
 Chapter 7 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Houston typically range from $1,000-$2,500 for Chapter 7 and $3,000-$5,000 for Chapter 13. You will also need to pay for required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -7075,19 +7827,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -7173,6 +7939,72 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 7 Eligibility
+Checklist
+Converting Chapters
+Credit Card Debt
+Credit Cards Before Filing
+Disqualifications
+District Lookup
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Glossary
+Income Limits
+Index
+Judgments
+Keep Your Car
+Medical Debt Only
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Resources
+Retirement Accounts
+Second Mortgage
+Security Clearance
+Small Business
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeline
+Timeshare
+Travel Chapter 13
+
 ---
 
 ## Judgments and Bankruptcy in Houston
@@ -7188,6 +8020,8 @@ Judgments and Bankruptcy in Houston
 A court judgment against you is not the end of the road. Bankruptcy can discharge the underlying debt and even remove judgment liens on your Houston property.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, if the underlying debt is dischargeable. Most money judgments from credit cards, medical bills, and contracts are eliminated. Judgments for fraud, willful injury, or domestic support obligations survive.
 
 Can Bankruptcy Discharge a Judgment?
 
@@ -7280,15 +8114,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7313,6 +8165,8 @@ Can I Keep My Car in Houston Bankruptcy?
 For most Houston residents, the answer is yes. Texas provides a vehicle exemption of Fully exempt if needed for work, and Chapter 13 offers additional options.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Texas allows a vehicle exemption of Fully exempt if needed for work. If you owe more than the car is worth, your equity is protected. In Chapter 13, you can keep your car regardless of equity.
 
 Texas Vehicle Exemption
 
@@ -7427,15 +8281,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7460,6 +8332,8 @@ Can I Keep My House in Houston Bankruptcy?
 Texas's homestead exemption protects Unlimited (10 acres urban) of equity in your home. Combined with Chapter 13's mortgage cure provisions, most Houston homeowners can keep their homes through bankruptcy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Texas's homestead exemption protects Unlimited (10 acres urban) of equity. In Chapter 13, you can keep your home and cure mortgage arrears over 3-5 years.
 
 Texas Homestead Exemption
 
@@ -7570,15 +8444,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7601,6 +8493,8 @@ Home›Free Legal Help for Bankruptcy in Houston | Houston Bankruptcy Guide›Fr
 Free Legal Help for Bankruptcy in Houston
 
 If you are struggling with debt but cannot afford a bankruptcy attorney, these Houston-area organizations may be able to help - for free or at reduced cost.
+
+Yes. Several organizations in Houston provide free legal assistance for bankruptcy cases, including Lone Star Legal Aid and Houston Volunteer Lawyers. Eligibility is generally based on income, typically at or below 125-200% of the federal poverty level.
 
 Houston Legal Aid Organizations
 
@@ -7710,13 +8604,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7741,6 +8655,8 @@ Houston Means Test: Do You Qualify for Chapter 7?
 The means test determines whether you can file Chapter 7 bankruptcy. Your income is compared to the Texas median income for your household size. Here is how it works for Houston residents filing in the S.D. Tex..
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The means test is a calculation required for Chapter 7 bankruptcy that compares your income to the median income in Texas. If your income is below the median for your household size, you automatically qualify for Chapter 7. If above, you must pass a second calculation that factors in your allowed expenses.
 
 What Is the Means Test?
 
@@ -7790,7 +8706,7 @@ If your income exceeds the median, you proceed to Part 2. You deduct IRS-approve
 
 5Calculate disposable income
 
-Subtract your total allowed deductions from your CMI. Multiply the remaining monthly disposable income by 60 (representing a 5-year Chapter 13 plan). If the result is less than $9,075, you pass. If more than $15,150, you fail. Between those amounts, further analysis is needed.
+Subtract your total allowed deductions from your CMI. Multiply the remaining monthly disposable income by 60 (representing a 5-year Chapter 13 plan). If the result is less than $10,275, you pass. If more than $17,150, you fail. Between those amounts, further analysis is needed.
 
 6File the appropriate form
 
@@ -7881,15 +8797,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7912,6 +8846,8 @@ Home›Can I File Bankruptcy on Medical Debt Only?
 Can I File Bankruptcy on Medical Debt Only?
 
 A free guide for Texas residents. Filed in S.D. Tex..
+
+You cannot selectively file bankruptcy on just one type of debt - all debts must be listed in your petition. However, medical debt IS fully dischargeable in both Chapter 7 and Chapter 13. If medical bills are your primary burden, Chapter 7 may eliminate them entirely in 3-4 months. Before filing, c
 
 What You Need to Know
 
@@ -7957,13 +8893,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7988,6 +8944,8 @@ Medical Debt and Bankruptcy in Houston
 Medical debt is the leading cause of bankruptcy in America. For Houston residents overwhelmed by hospital bills, bankruptcy offers a path to complete elimination of medical debt.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Medical debt is 100% dischargeable in both Chapter 7 and Chapter 13 bankruptcy filed in the S.D. Tex.. It is classified as general unsecured debt.
 
 Medical Debt Is 100% Dischargeable
 
@@ -8120,15 +9078,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8153,6 +9129,8 @@ Payday Loans and Bankruptcy in Houston
 Payday loans trap borrowers in cycles of debt with interest rates exceeding 400% APR. Bankruptcy can break the cycle. Here is how it works for Houston residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debts and are fully dischargeable in both Chapter 7 and Chapter 13. The rare exception is loans obtained through fraud.
 
 Are Payday Loans Dischargeable?
 
@@ -8231,15 +9209,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8262,6 +9258,8 @@ Home›Can I Undo a Reaffirmation Agreement?
 Can I Undo a Reaffirmation Agreement?
 
 A free guide for Texas residents. Filed in S.D. Tex..
+
+You have 60 days after the reaffirmation agreement is filed with the court to rescind (cancel) it. After 60 days, your options are limited. You can voluntarily surrender the property, refinance the loan, or negotiate with the creditor. If the reaffirmation was not properly disclosed or you were not
 
 What You Need to Know
 
@@ -8307,13 +9305,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8336,6 +9354,8 @@ Home›Renting an Apartment After Bankruptcy
 Renting an Apartment After Bankruptcy
 
 A free guide for Texas residents. Filed in S.D. Tex..
+
+Finding an apartment after bankruptcy is possible but requires strategy. Most large property management companies run credit checks and will see the bankruptcy. Smaller landlords and individual owners are often more flexible. Tips: offer a larger security deposit, provide references from previous la
 
 What You Need to Know
 
@@ -8381,13 +9401,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8410,6 +9450,8 @@ Home›Can Bankruptcy Remove a Repossession From Your Credit?
 Can Bankruptcy Remove a Repossession From Your Credit?
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+Bankruptcy does not remove a repossession entry from your credit report. However, filing bankruptcy discharges the deficiency balance - the amount you still owe after the repo and sale. Your credit report should show the balance as $0 after discharge. If it still shows a balance, dispute it with th
 
 What You Need to Know
 
@@ -8454,13 +9496,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8485,6 +9547,8 @@ Vehicle Repossession and Bankruptcy in Houston
 If your car is about to be repossessed or has already been taken, bankruptcy may stop the process or get your vehicle back. Here is how it works for Houston residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. In Texas, a creditor can repossess without a court order once you default. They cannot breach the peace.
 
 How Repossession Works in Texas
 
@@ -8595,15 +9659,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8626,6 +9708,8 @@ Home›Resources
 Houston Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process.
+
+The Southern District of Texas bankruptcy court is at 515 Rusk Ave, Houston, TX 77002 (phone: (713) 250-5500).
 
 Bankruptcy Court
 
@@ -8750,15 +9834,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8781,6 +9883,8 @@ Home›Can I Keep My 401k and Retirement in Bankruptcy?
 Can I Keep My 401k and Retirement in Bankruptcy?
 
 A free guide for Texas residents. Filed in S.D. Tex..
+
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA
 
 What You Need to Know
 
@@ -8826,13 +9930,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8857,6 +9981,8 @@ Second Mortgages and Bankruptcy in Houston
 A second mortgage or HELOC can be eliminated in Chapter 13 bankruptcy if your home is underwater. Houston homeowners should understand lien stripping and discharge options.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In Chapter 13, yes - if your home is worth less than what you owe on the first mortgage. The second mortgage is stripped and treated as unsecured debt. In Chapter 7, you can discharge personal liability but the lien remains on the property.
 
 Lien Stripping: Removing Your Second Mortgage
 
@@ -8951,15 +10077,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8982,6 +10126,8 @@ Home›Bankruptcy and Security Clearance
 Bankruptcy and Security Clearance
 
 A free guide for Texas residents. Filed in S.D. Tex..
+
+Filing bankruptcy does NOT automatically revoke your security clearance. In fact, the Department of Defense adjudicative guidelines consider financial irresponsibility a greater risk than filing bankruptcy. Filing shows you are taking responsible steps to address your debt. Many clearance holders fi
 
 What You Need to Know
 
@@ -9027,13 +10173,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9059,6 +10225,8 @@ Houston small business owners facing financial distress have more options than e
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
 
+Yes. Options include Chapter 7 (liquidation), Chapter 13 (sole proprietors, unsecured debt under $526,700 and secured debt under $1,580,125), or Subchapter V (businesses with debt of no more than $3,424,000). The best option depends on your structure and goals.
+
 Business Bankruptcy Options
 
 OptionBest ForKeep Operating?Filing Fee
@@ -9067,7 +10235,7 @@ Chapter 7Businesses that should closeNo$338
 
 Chapter 13Sole proprietors (unsecured debt under $526,700; secured under $1,580,125)Yes$313
 
-Subchapter VBusinesses with debt under $7.5MYes$1,738
+Subchapter VBusinesses with debt of no more than $3,424,000Yes$1,738
 
 Chapter 11Larger businessesYes$1,738
 
@@ -9168,15 +10336,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9188,7 +10374,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Houston Bankruptcy Statistics - 91,806 Cases Analyzed
+## Houston Bankruptcy Statistics [2026]: 91,806 SDTX Cases Analyzed With Filing and Dismissal Data
 Source: https://houstonbankruptcy.org/statistics.html
 
 Houston Bankruptcy Guide
@@ -9223,6 +10409,8 @@ Est. 1328(f) Violations
 10.8%
 
 Pro Se Rate
+
+Between 2008 and 2024, the Southern District of Texas saw 91,806 Chapter 13 filings. Filing volumes peaked around 2010-2011 following the financial crisis and have generally declined since.
 
 What These Numbers Mean for You
 
@@ -9313,15 +10501,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9344,6 +10550,8 @@ Home›What Bills Can I Stop Paying Before Filing?
 What Bills Can I Stop Paying Before Filing?
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+Before filing bankruptcy, you can strategically stop paying unsecured debts like credit cards and medical bills. Keep paying your mortgage, car payment, utilities, child support, and alimony. Be aware of the 90-day preference period - large payments to specific creditors before filing can be clawed
 
 What You Need to Know
 
@@ -9388,13 +10596,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9419,6 +10647,8 @@ Student Loans and Bankruptcy in Houston
 Student loan discharge in bankruptcy is difficult but not impossible. For Houston residents, here is what you need to know about the undue hardship standard and recent changes.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Discharging student loans is difficult but not impossible. You must file an adversary proceeding in the S.D. Tex. and prove undue hardship. Recent DOJ guidance (2023) has made discharge easier.
 
 Can Student Loans Be Discharged?
 
@@ -9539,15 +10769,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9570,6 +10818,8 @@ Home›Surrendering Your Car in Bankruptcy
 Surrendering Your Car in Bankruptcy
 
 A free guide for Texas residents. Filed in S.D. Tex..
+
+Voluntary surrender means you return the vehicle to the lender. In Chapter 7, the remaining deficiency balance (what you owe minus the car's value) is discharged. You will not owe anything after discharge. The process: notify your attorney, the lender arranges pickup, you remove personal belongings.
 
 What You Need to Know
 
@@ -9615,13 +10865,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9646,6 +10916,8 @@ Tax Debt and Bankruptcy in Houston
 Certain tax debts can be discharged in bankruptcy if they meet specific timing rules. Here is what Houston residents need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Some tax debt can be discharged if it meets the 3-2-240 rules: return due 3+ years ago, filed 2+ years ago, assessed 240+ days ago. Texas has no state income tax, so only federal taxes apply.
 
 The 3-2-240 Rule for Tax Discharge
 
@@ -9774,15 +11046,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9805,6 +11095,8 @@ Home›Will the Chapter 13 Trustee Take My Tax Refund?
 Will the Chapter 13 Trustee Take My Tax Refund?
 
 A free guide for Texas residents. Filed in S.D. Tex..
+
+In most districts, the Chapter 13 trustee requires you to turn over tax refunds above a certain threshold (typically $2,000-$3,000, varies by trustee). Your plan may include specific provisions about tax refunds. You can request a plan modification to retain your refund for a necessary expense. File
 
 What You Need to Know
 
@@ -9850,13 +11142,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9881,6 +11193,8 @@ Bankruptcy Timeline in Houston
 Understanding the bankruptcy timeline helps you plan and reduces anxiety. Here is what to expect at each stage for cases filed in the S.D. Tex..
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 typically takes 3-4 months from filing to discharge in the S.D. Tex.. The 341 meeting occurs about 30 days after filing, and discharge about 60 days after that.
 
 Chapter 7 Timeline (3-4 Months)
 
@@ -10015,15 +11329,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10047,6 +11379,8 @@ Timeshares and Bankruptcy
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
 
+You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under
+
 What You Need to Know
 
 You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under the discharge injunction.
@@ -10090,13 +11424,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10119,6 +11473,8 @@ Home›Can I Travel During Chapter 13?
 Can I Travel During Chapter 13?
 
 A free guide for Texas residents considering bankruptcy. Filed in S.D. Tex..
+
+There is no legal restriction on domestic travel during Chapter 13. For international travel, some trustees ask to be notified for extended trips. Luxury vacations may draw scrutiny if the trustee believes you have disposable income that should go to creditors. Budget travel and visiting family are
 
 What You Need to Know
 
@@ -10163,13 +11519,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10194,6 +11570,8 @@ Wage Garnishment and Bankruptcy in Houston
 Because Texas already prohibits consumer wage garnishment, bankruptcy's automatic stay primarily helps Houston residents by stopping bank levies, property liens, and lawsuit judgments rather than wage garnishment. However, bankruptcy can eliminate the underlying debt entirely, which Texas wage protection alone cannot do.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Texas law prohibits wage garnishment for most consumer debts. Creditors cannot garnish your wages for credit cards, medical bills, or personal loans. The only exceptions are child support, federal student loans, and tax debts. This makes Texas one of the most debtor-friendly states for wage protection.
 
 Texas Wage Garnishment Law
 
@@ -10300,15 +11678,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10331,6 +11727,8 @@ Home›What to Expect
 What to Expect When Filing Bankruptcy
 
 The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish.
+
+The 341 meeting is a brief hearing where the bankruptcy trustee asks you questions under oath about your financial situation. Bring photo ID and proof of Social Security number. Most meetings last only 5-10 minutes. Creditors may attend but rarely do.
 
 Chapter 7 Timeline
 
@@ -10489,15 +11887,33 @@ Houston Exemptions
 
 Bankruptcy Cost in Houston
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10565,7 +11981,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -10575,6 +11991,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About houstonbankruptcy.org
+Source: https://houstonbankruptcy.org/about.html
+
+houstonbankruptcy.org
+
+Home
+About
+Privacy
+
+About houstonbankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+houstonbankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
